@@ -2,6 +2,10 @@
   "name": "set-immediate-promise",
   "version": "1.0.5",
   "description": "Return a promise immediately resolved by setImmediate()",
+  "keywords": [
+    "promise",
+    "setImmediate"
+  ],
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
   "main": "lib/index.js",
